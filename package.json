@@ -1,0 +1,16 @@
+{
+  "name": "gmk-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+   "@azure/cognitiveservices-computervision": "^8.2.0",
+    "@azure/core-http": "^3.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
